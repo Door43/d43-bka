@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bka:home|Door43 (bka)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bka|d43-bka repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bka/archive/master.zip|d43-bka.zip]]
+
+**Recent Changes**
+{{changes>ns = bka}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bka|Ethnologue data]]
+
